@@ -1,0 +1,8 @@
+{
+  "name": "Remix Denlight IT Solutions",
+  "description": "Tech goods, smartphone catalog with installment financing (WATU, OnFon, MOGO), computer repair \u0026 networking services in Naivasha, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
